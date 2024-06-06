@@ -1,9 +1,10 @@
 // Start Code
-// 07 - Aug - 2020
-// Al Nahian | Dominating The Web | https://alnahian.xyz
+// 23 - May - 2024
+// Ashfaque Hossain Abir| https://github.com/abirett5
 // =====================================
-// =       Al Nahian ♥ 7 July 2020     =
+// =       A.H. Abir ♥ 6 June 2024     =
 // =====================================
+
 
 // Variables & Copy To Clipboard Functions of Text Color Section
 

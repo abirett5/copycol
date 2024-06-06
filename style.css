@@ -1,4 +1,9 @@
-﻿* {
+﻿/*
+-- Project Creator: Ashfaque Hossain Abir 
+-- Github id: https://github.com/abirett5
+*/
+
+* {
   font-family: "Open Sans", sans-serif !important;
   scroll-behavior: smooth;
   transition: 0.2s ease;
