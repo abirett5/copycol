@@ -6,6 +6,11 @@
 // =====================================
 
 
+// Creating Date Functionality
+const displayYear = document.getElementById("year");
+const date = new Date();
+displayYear.innerHTML = date.getFullYear();
+
 // Variables & Copy To Clipboard Functions of Text Color Section
 
 const txt0 = $(".txt-0");
